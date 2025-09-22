@@ -55,7 +55,7 @@ Facilitar o **gerenciamento do histórico de manutenções** e outros registros 
 ## 📦 Como executar o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/techman2025.git
+git clone https://github.com/Gabihdemori/Techman.git
 cd api
 npm install
 npx prisma migrate dev
