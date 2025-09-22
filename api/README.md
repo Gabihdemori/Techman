@@ -12,3 +12,12 @@ O backend da aplicação **Techman** foi desenvolvido com **Node.js**, utilizand
 - Prisma ORM
 - MySQL
 - Dotenv
+
+## 📦 Como executar o projeto
+
+```bash
+git clone https://github.com/Gabihdemori/Techman.git
+cd api
+npm install
+npx prisma migrate dev
+npm run dev
