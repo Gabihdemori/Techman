@@ -1,7 +1,6 @@
 
 ## 📄 `docs/README.md` (Documentação)
 
-```markdown
 # 📚 Documentação - Techman 2025
 
 Este diretório contém os arquivos de apoio e documentação técnica do projeto.
