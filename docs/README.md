@@ -22,7 +22,7 @@ O diagrama abaixo representa a modelagem do banco de dados relacional utilizado 
 
 O diagrama abaixo apresenta o fluxo de login do administrador e cadastro de novo equipamento.
 
-![Diagrama de Atividades](Uml.png)
+![Diagrama de Atividades](https://github.com/Gabihdemori/Techman/blob/c0f044cfada4c5de2979f2c031fccab7da4561b8/docs/Uml.png)
 
 ---
 
